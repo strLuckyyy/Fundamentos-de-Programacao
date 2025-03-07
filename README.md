@@ -1,4 +1,4 @@
-# Fundamentos-de-Programacao
+# Fundamentos de Programacao
 ### 1º Semestre - 02/23
   * **Matéria**: Fundamentos de Programação
   * **Professor**: Márcio Garcia Martins
