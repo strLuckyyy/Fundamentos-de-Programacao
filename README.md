@@ -1,2 +1,9 @@
 # Fundamentos-de-Programacao
-Disciplina do 1º Semestres do Curso de Jogos Digitais na Unisinos
+### 1º Semestre - 02/23
+  * **Matéria**: Fundamentos de Programação
+  * **Professor**: Márcio Garcia Martins
+  * **Tecnologia**: Python
+
+    - Atividades -> Abrahão Francis
+    - Provas     -> Abrahão Francis
+    - Trabalhos  -> Lucas Fraga, Abrahão Francis
